@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página de Presentación</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 20px; background-color: #f4f4f4; }
+        h1 { color: #333; }
+        a { color: #0077cc; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>¡Hola! Soy Sergio 👋</h1>
+    </header>
+    <main>
+        <p>Toledano de cuna, ingeniero informatico, entusiasta, activo, agradecido, de ideas claras, confía en que la bondad y el altruismo nos convierten en buenas personas.</p>
+        <p>Este es mi rincón en internet. Puedes encontrar mis proyectos en mi perfil de GitHub o contactarme a través de mis redes.</p>
+        <ul>
+            <li><a href="https://github.com/sergioperezromojaro">Mi GitHub</a></li>
+            <li><a href="https://www.linkedin.com/in/sergioperezromojaro/">Mi LinkedIn</a></li>
+        </ul>
+    </main>
+</body>
+</html>
